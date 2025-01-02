@@ -1,0 +1,196 @@
+
+
+.EditButton6{
+
+    -fx-background-color: #008000;
+    -fx-border-radius: 15px;
+
+}
+
+.EditButton5{
+
+    -fx-background-color: #008000;
+    -fx-border-radius: 15px;
+
+}
+
+.EditButton4{
+
+    -fx-background-color: #008000;
+    -fx-border-radius: 15px;
+
+}
+
+.EditButton3{
+
+    -fx-background-color: #008000;
+    -fx-border-radius: 15px;
+
+}
+
+
+.EditButton2{
+
+    -fx-background-color: #008000;
+    -fx-border-radius: 15px;
+
+}
+
+
+.EditButton1{
+
+    -fx-background-color: #008000;
+    -fx-border-radius: 15px;
+
+}
+
+#TableRows{
+    -fx-background-color: white;
+    -fx-background-radius:15px;
+    -fx-border-radius: 15px;
+}
+
+#Contents{
+    -fx-text-fill: rgb(52, 72, 100);;
+    -fx-font-family: "Arial";
+    -fx-font-size: 15;
+    -fx-font-weight: bold;
+}
+
+#Row_Button{
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+    -fx-background-radius: 15px;
+    -fx-border-radius: 15px;
+}
+
+#Row_Button:hover{
+    -fx-background-color: gray;
+    -fx-border-color: transparent;
+    -fx-background-radius: 15px;
+    -fx-border-radius: 15px;
+}
+
+.scroll-pane {
+    -fx-background: transparent;
+    -fx-border-color: transparent;
+    -fx-border-width: 0;
+    -fx-background-insets: 0;
+    -fx-padding: 0;
+}
+
+.scroll-pane .viewport {
+    -fx-background-color: f1f0e9;
+    -fx-border-color: transparent;
+    -fx-border-width: 0;
+}
+
+.scroll-pane:focused {
+    -fx-background-insets: 0;
+}
+
+.scroll-pane .corner {
+    -fx-background-insets: 0;
+}
+
+#ScrollPane .scroll-bar {
+    -fx-background-color: transparent;
+}
+
+#ScrollPane .scroll-bar .track {
+    -fx-background-color: transparent;
+}
+
+#ScrollPane .scroll-bar .thumb {
+    -fx-background-color: #c0c0c0;
+    -fx-background-insets: 0;
+}
+
+#ScrollPane .scroll-bar .thumb:hover {
+    -fx-background-color: #a0a0a0;
+}
+
+#ScrollPane .scroll-bar .thumb:pressed {
+    -fx-background-color: #808080;
+}
+
+.RemoveAccountButton:hover{
+
+    -fx-background-color:  #F88456;
+
+}
+
+.RemoveAccountButton{
+
+    -fx-border-color: #F88456;
+    -fx-border-radius: 15px;
+    -fx-background-color: f1f0e9;
+    -fx-background-radius: 15px;
+    -fx-padding: 5px;
+
+}
+
+.searchTextField{
+    -fx-background-radius: 20px;
+    -fx-padding: 0px 10px 0px 40px;
+    -fx-font-size: 14px;
+    -fx-border-width: 1px;
+}
+
+.AccountsForm{
+
+    -fx-background-color: f1f0e9;
+}
+
+#HeadLabel{
+    -fx-font-family: "Arial";
+    -fx-font-size: 15;
+    -fx-font-weight: bold;
+}
+
+#UserID_LB{
+    -fx-font-family: "Arial";
+}
+
+#Accounts_Layout{
+    -fx-spacing: 5;
+}
+
+#Password_LB{
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+    -fx-font-family: "Arial";
+    -fx-font-size: 15;
+    -fx-font-weight: bold;
+    -fx-text-fill: rgb(0, 64, 154);
+    -fx-alignment: CENTER;
+}
+
+#CBox {
+    -fx-background-color: white;
+    -fx-border-color: lightgray;
+    -fx-border-radius: 50;
+    -fx-background-radius: 50;
+    -fx-padding: 5 10 5 10;
+    -fx-font-size: 14px;
+    -fx-font-family: "Arial";
+}
+
+#CBox:hover {
+    -fx-background-color: #f0f0f0;
+    -fx-border-color: gray;
+}
+
+#CBox:focused {
+    -fx-border-color: #00aaff;
+}
+
+#CBox .arrow {
+    -fx-background-color: lightgray;
+}
+
+#CBox .arrow:hover {
+    -fx-background-color: gray;
+}
+
+
